@@ -1,0 +1,19 @@
+{
+    "name": "speecher",
+    "version": "1.0.0",
+    "description": "Discord bot that generates conversations",
+    "main": "index.js",
+    "private": true,
+    "scripts": {
+        "start": "node ./index.js"
+    },
+    "keywords": [],
+    "author": "Vitor Mac",
+    "license": "MIT",
+    "dependencies": {
+        "axios": "^0.19.2",
+        "discord.js": "^11.6.4",
+        "dotenv": "^8.2.0",
+        "ws": "^7.3.0"
+    }
+}
